@@ -6,6 +6,8 @@
 - 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
 - ⚡ Fun fact: I maker poems in [Youtube](https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og)
 
+<br>
+
 <a href="https://www.linkedin.com/in/lucasferreiralimax/" target="_blank">
   <img align="center" alt="Lucas Ferreira de Lima LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
