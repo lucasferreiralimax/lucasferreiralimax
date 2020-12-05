@@ -9,8 +9,14 @@
 <br>
 
 <a href="https://www.linkedin.com/in/lucasferreiralimax/" target="_blank">
-  <img align="center" alt="Lucas Ferreira de Lima LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Lucas Ferreira de Lima LinkdeIN" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og" target="_blank">
-  <img align="center" alt="Rimando As Poesias" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" alt="2L Rimando As Poesias Youtube" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" />
+</a>
+<a href="https://codepen.io/lucaslimax" target="_blank">
+  <img align="center" alt="lucaslimax Codepen" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" />
+</a>
+<a href="https://steamcommunity.com/id/lucaslima1337" target="_blank">
+  <img align="center" alt="2L steam games" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" />
 </a>
