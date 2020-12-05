@@ -15,11 +15,4 @@
   <img align="center" alt="Rimando As Poesias" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br>
-<br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasferreiralimax&show_icons=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiralimax&layout=compact)](https://github.com/lucasferreiralimax)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasferreiralimax&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiralimax&layout=compact)](https://github.com/lucasferreiralimax)
