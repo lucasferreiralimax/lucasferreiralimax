@@ -14,5 +14,3 @@
 <a href="https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og" target="_blank">
   <img align="center" alt="Rimando As Poesias" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasferreiralimax&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiralimax&layout=compact)](https://github.com/lucasferreiralimax)
