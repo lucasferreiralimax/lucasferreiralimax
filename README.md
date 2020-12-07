@@ -1,6 +1,6 @@
 ### Oie, Hi, Salut, Hola, Здравствуйте 😄
 
-- 💼 I’m currently working on: https://angulare.app and open source project https://criar-curriculo.web.app
+- 💼 I’m currently working on: [angulare.app](https://angulare.app) and open source project [criar-curriculo.web.app](https://criar-curriculo.web.app)
 - 🎓 I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
 - 💬 Ask me about: A tech developer with focus in Front-end it's me
 - 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
