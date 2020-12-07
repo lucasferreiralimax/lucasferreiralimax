@@ -1,10 +1,10 @@
 ### Oie, Hi, Salut, Hola, Здравствуйте 😄
 
-- 🔭 I’m currently working on: https://angulare.app and open source project https://criar-curriculo.web.app
-- 🌱 I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
+- 💼 I’m currently working on: https://angulare.app and open source project https://criar-curriculo.web.app
+- 🎓 I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
 - 💬 Ask me about: A tech developer with focus in Front-end it's me
 - 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
-- ⚡ Fun fact: I maker poems in [Youtube](https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og)
+- 🎨 Art: I maker poems in [Youtube] and pieces of art (https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og)
 
 <br>
 
