@@ -4,7 +4,7 @@
 - 🎓 I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
 - 💬 Ask me about: A tech developer with focus in Front-end it's me
 - 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
-- 🎨 Art: I maker poems in [Youtube] and pieces of art (https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og)
+- 🎨 Art: I maker poems in [Youtube](https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og) and pieces of art
 
 <br>
 
