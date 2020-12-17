@@ -6,7 +6,7 @@
 - 🌿 Projects
   * [Interface Google with React.js](https://g00gle-reactjs.web.app)
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
-  * [Project Create Curriculum](https://criar-curriculo.web.app)
+  * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
   * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
   * [SlideContent with Angular](https://angular-slidecontent.web.app)
   * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
