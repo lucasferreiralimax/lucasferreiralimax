@@ -6,6 +6,7 @@
 - 🌿 Projects
   * [Interface Google with React.js](https://g00gle-reactjs.web.app)
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
+  * [Interface Chat with Vue.js](https://chat-vue-interface.web.app)
   * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
   * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
   * [SlideContent with Angular](https://angular-slidecontent.web.app)
@@ -16,15 +17,24 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/lucasferreiralimax/" target="_blank">
-  <img align="center" alt="Lucas Ferreira de Lima LinkdeIN" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+<a href="https://docs.microsoft.com/pt-br/users/lucasferreiralimax" target="_blank">
+  <img align="center" alt="Lucas Ferreira de Lima Microsoft Docs Learn" width="50px" src="assets/microsoft-logo.svg" style="max-width:100%;" />
+</a>
+<a href="https://www.freecodecamp.org/lucasferreiralimax" target="_blank">
+  <img align="center" alt="Lucas Ferreira de Lima FreeCodeCamp" width="50px" src="assets/freecodecamp-logo.png" style="max-width:100%;" />
+</a>
+<a href="https://app.pluralsight.com/profile/lucasferreiralimax" target="_blank">
+  <img align="center" alt="Lucas Ferreira de Lima PluralSight" width="50px" src="assets/pluralsight-logo.png" style="max-width:100%;" />
+</a>
+<a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
+  <img align="center" alt="Lucas Ferreira de Lima LinkdeIn" width="50px" src="assets/linkedin-logo.svg" style="max-width:100%;" />
 </a>
 <a href="https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og" target="_blank">
-  <img align="center" alt="2L Rimando As Poesias Youtube" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" />
+  <img align="center" alt="2L Rimando As Poesias Youtube" width="50px" src="assets/youtube-logo.svg" style="max-width:100%;" />
 </a>
 <a href="https://codepen.io/lucaslimax" target="_blank">
-  <img align="center" alt="lucaslimax Codepen" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" />
+  <img align="center" alt="lucaslimax Codepen" width="50px" src="assets/codepen-logo.svg" style="max-width:100%;" />
 </a>
 <a href="https://steamcommunity.com/id/lucaslima1337" target="_blank">
-  <img align="center" alt="2L steam games" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" />
+  <img align="center" alt="2L steam games" width="50px" src="assets/steam-logo.png" style="max-width:100%;" />
 </a>
