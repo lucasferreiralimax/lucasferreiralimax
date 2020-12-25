@@ -11,7 +11,7 @@
   * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
   * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
   * [SlideContent with Angular](https://angular-slidecontent.web.app) 
-  * [A project of Poem with mescle Instrumental make music with Angular and Youtube API](https://rimandoaspoesias.web.app)
+  * [A project of Poem with musical Instruments make music with Angular and Youtube API](https://rimandoaspoesias.web.app)
   * Boilerplate Stylus and Pug.js with [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
 - 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
 - 🎨 Art: I maker poems in [Youtube](https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og) and pieces of art
