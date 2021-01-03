@@ -1,6 +1,6 @@
 ### Olá, Hello, Salut, Hola, Здравствуйте
 
-- Ask me about: Front-end, JavaScript, CSS, HTML, draw interface and quality software.
+- Ask me about: Front-end, JavaScript, CSS, HTML, draw interface.
 - I’m currently learning: Web development and Design Web.
 - 🌿 Projects
   * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
