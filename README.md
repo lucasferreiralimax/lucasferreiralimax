@@ -1,8 +1,7 @@
-### Oie, Hi, Salut, Hola, Здравствуйте 😄
+### Oie, Hi, Salut, Hola, Здравствуйте
 
-- 💼 I’m currently working on: open source project [criar-curriculo.web.app](https://criar-curriculo.web.app)
-- 🎓 I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
-- 💬 Ask me about: A tech developer with focus in Front-end it's me
+- I’m currently learning: Javascript, HTML, CSS, Vue.js, React.js, Angular, Design Web.
+- Ask me about: A tech developer with focus in Front-end it's me
 - 🌿 Projects
   * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
   * [Interface Chat with Vue.js](https://chat-vue-interface.web.app)  
@@ -13,8 +12,7 @@
   * [SlideContent with Angular](https://angular-slidecontent.web.app) 
   * [A project of Poem with musical Instruments make music with Angular and Youtube API](https://rimandoaspoesias.web.app)
   * Boilerplate Stylus and Pug.js with [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
-- 📫 How to reach me: lucasferreiralimax search in Google or send my email: lucasferreiralimax@gmail.com
-- 🎨 Art: I maker poems in [Youtube](https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og) and pieces of art
+- E-mail: lucasferreiralimax@gmail.com
 
 <br>
 
