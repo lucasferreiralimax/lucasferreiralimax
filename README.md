@@ -42,3 +42,6 @@
 <a href="https://api.whatsapp.com/send?phone=+5583996749477&text=Hello+Lucas%2C+how+are+you+doing%3F" target="_blank">
   <img alt="Lucas Whatsapp" width="50px" src="assets/whatsapp-logo.svg" />
 </a>
+<a href="https://www.duolingo.com/profile/ferreiralimax" target="_blank">
+  <img alt="Lucas Duolingo" width="50px" src="assets/duolingo-logo.svg" />
+</a>
