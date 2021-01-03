@@ -1,7 +1,7 @@
-### Oie, Hi, Salut, Hola, Здравствуйте
+### Olá, Hello, Salut, Hola, Здравствуйте
 
-- I’m currently learning: Web development and Design Web.
 - Ask me about: Front-end, JavaScript, CSS, HTML, draw interface and quality software.
+- I’m currently learning: Web development and Design Web.
 - 🌿 Projects
   * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
   * [Interface Chat with Vue.js](https://chat-vue-interface.web.app)  
