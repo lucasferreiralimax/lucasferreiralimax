@@ -25,32 +25,32 @@
 <br>
 
 <a href="https://docs.microsoft.com/pt-br/users/lucasferreiralimax" target="_blank">
-  <img alt="Lucas Ferreira de Lima Microsoft Docs Learn" width="50px" src="assets/microsoft-logo.svg" />
+  <img alt="Lucas Ferreira de Lima Microsoft Docs Learn" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/microsoft-logo.svg" />
 </a>
 <a href="https://www.freecodecamp.org/lucasferreiralimax" target="_blank">
-  <img alt="Lucas Ferreira de Lima FreeCodeCamp" width="50px" src="assets/freecodecamp-logo.png" />
+  <img alt="Lucas Ferreira de Lima FreeCodeCamp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/freecodecamp-logo.png" />
 </a>
 <a href="https://app.pluralsight.com/profile/lucasferreiralimax" target="_blank">
-  <img alt="Lucas Ferreira de Lima PluralSight" width="50px" src="assets/pluralsight-logo.png" />
+  <img alt="Lucas Ferreira de Lima PluralSight" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/pluralsight-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
-  <img alt="Lucas Ferreira de Lima LinkdeIn" width="50px" src="assets/linkedin-logo.svg" />
+  <img alt="Lucas Ferreira de Lima LinkdeIn" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/linkedin-logo.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og" target="_blank">
-  <img alt="2L Rimando As Poesias Youtube" width="50px" src="assets/youtube-logo.svg" />
+  <img alt="2L Rimando As Poesias Youtube" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
 </a>
 <a href="https://codepen.io/lucaslimax" target="_blank">
-  <img alt="lucaslimax Codepen" width="50px" src="assets/codepen-logo.svg" />
+  <img alt="lucaslimax Codepen" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/codepen-logo.svg" />
 </a>
 <a href="https://steamcommunity.com/id/lucaslima1337" target="_blank">
-  <img alt="2L steam games" width="50px" src="assets/steam-logo.png" />
+  <img alt="2L steam games" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/steam-logo.png" />
 </a>
 <a href="https://t.me/lucasferreiralimax" target="_blank">
-  <img alt="Lucas Telegram" width="50px" src="assets/telegram-logo.svg" />
+  <img alt="Lucas Telegram" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/telegram-logo.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=+5583996749477&text=Hello+Lucas%2C+how+are+you+doing%3F" target="_blank">
-  <img alt="Lucas Whatsapp" width="50px" src="assets/whatsapp-logo.svg" />
+  <img alt="Lucas Whatsapp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/whatsapp-logo.svg" />
 </a>
 <a href="https://www.duolingo.com/profile/ferreiralimax" target="_blank">
-  <img alt="Lucas Duolingo" width="50px" src="assets/duolingo-logo.svg" />
+  <img alt="Lucas Duolingo" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/duolingo-logo.svg" />
 </a>
