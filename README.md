@@ -17,6 +17,7 @@
   * [Interface Google with React.js](https://g00gle-reactjs.web.app)
   * [Interface Google with Angular](https://g00gle-angular.web.app)
   * [Interface Google with Vue.js](https://g00gle-vue.web.app)
+  * [Interface Google with Svelte](https://g00gle-svelte.web.app)
 - ↔️ SlideContent
   * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
   * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
