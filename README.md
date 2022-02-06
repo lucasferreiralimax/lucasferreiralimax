@@ -22,6 +22,7 @@
   * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
   * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
   * [SlideContent with Angular](https://angular-slidecontent.web.app)
+  * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
 
 <br>
 
