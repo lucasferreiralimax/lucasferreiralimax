@@ -7,7 +7,6 @@
   * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
   * [Exam with questions for conductors](https://detran-simulador.web.app)
   * [Web App Keep Notes with Svelte.js](https://keep-cybernetically.web.app)
-  * [Interface Chat with Vue.js](https://chat-vue-interface.web.app)
   * [Created Documentation vue-i18n for Portuguese](https://kazupon.github.io/vue-i18n/pt)
   * [A project of Poem with musical Instruments make music with Angular and Youtube API](https://rimandoaspoesias.web.app)
   * Boilerplate Stylus and Pug.js with [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
