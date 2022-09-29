@@ -8,10 +8,10 @@
   * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
   * [Um projeto de poesias musical com Angular utilizando Youtube API](https://rimandoaspoesias.web.app)
   * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
-- 📘 Clone da Interface do Facebook
+- 📘 Clone da Interface do Facebook com Angular
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
   * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
-- 📚 Clone da Interface do Google com teclado virtual e reconhecimento de voz
+- 📚 Clone da Interface do Google com teclado virtual e reconhecimento de voz com diversos frameworks
   * [Interface Google com React.js](https://g00gle-reactjs.web.app)
   * [Interface Google com Angular](https://g00gle-angular.web.app)
   * [Interface Google com Vue.js](https://g00gle-vue.web.app)
