@@ -1,6 +1,4 @@
-### Olá, Hello, Salut, Hola, Здравствуйте
-
-- 🇧🇷 Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
+### 🇧🇷 Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
 
 - 🌿 Projetos
   * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
