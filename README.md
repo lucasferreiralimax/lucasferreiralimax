@@ -1,28 +1,28 @@
 ### Olá, Hello, Salut, Hola, Здравствуйте
 
-- Ask me about: Front-end, JavaScript, CSS, HTML, draw interface.
-- I’m currently learning: Web development and Design Web.
+- 🇧🇷 Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
+
 - 🌿 Projects
-  * [Save Our Soul - List of S.O.S](https://lucasferreiralimax.github.io/save-our-soul)
-  * [Project Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
-  * [Exam with questions for conductors](https://detran-simulador.web.app)
-  * [Web App Keep Notes with Svelte.js](https://keep-cybernetically.web.app)
-  * [Created Documentation vue-i18n for Portuguese](https://kazupon.github.io/vue-i18n/pt)
-  * [A project of Poem with musical Instruments make music with Angular and Youtube API](https://rimandoaspoesias.web.app)
-  * Boilerplate Stylus and Pug.js with [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
-- 📘 Interface Facebook
+  * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
+  * [Criar Currículo Grátis](https://criar-curriculo.web.app?lang=pt-BR)
+  * [Detran Simulador](https://detran-simulador.web.app)
+  * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
+  * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
+  * [Um projeto de poesias musical com Angular utilizando Youtube API](https://rimandoaspoesias.web.app)
+  * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
+- 📘 Clone da Interface do Facebook
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
   * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
-- 📚 Interface Google
-  * [Interface Google with React.js](https://g00gle-reactjs.web.app)
-  * [Interface Google with Angular](https://g00gle-angular.web.app)
-  * [Interface Google with Vue.js](https://g00gle-vue.web.app)
-  * [Interface Google with Svelte](https://g00gle-svelte.web.app)
-- ↔️ SlideContent
-  * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
-  * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
-  * [SlideContent with Angular](https://angular-slidecontent.web.app)
-  * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
+- 📚 Clone da Interface do Google com teclado virtual e reconhecimento de voz
+  * [Interface Google com React.js](https://g00gle-reactjs.web.app)
+  * [Interface Google com Angular](https://g00gle-angular.web.app)
+  * [Interface Google com Vue.js](https://g00gle-vue.web.app)
+  * [Interface Google com Svelte](https://g00gle-svelte.web.app)
+- ↔️ Slide de conteúdo simples escrito em diversos Frameworks
+  * [SlideContent com React.js](https://slidecontent-reactjs.web.app)
+  * [SlideContent com Vue.js](https://slidecontent-vuejs.web.app)
+  * [SlideContent com Angular](https://angular-slidecontent.web.app)
+  * [SlideContent com Ember.js](https://slidecontent-ember.web.app)
 
 <br>
 
