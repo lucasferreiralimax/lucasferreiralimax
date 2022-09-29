@@ -2,7 +2,7 @@
 
 - 🇧🇷 Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
 
-- 🌿 Projects
+- 🌿 Projetos
   * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
   * [Criar Currículo Grátis](https://criar-curriculo.web.app?lang=pt-BR)
   * [Detran Simulador](https://detran-simulador.web.app)
