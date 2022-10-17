@@ -2,7 +2,7 @@
 
 - 🌿 Projetos
   * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
-  * [Criar Currículo Grátis](https://criar-curriculo.web.app?lang=pt-BR)
+  * [Projeto Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
   * [Detran Simulador](https://detran-simulador.web.app)
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
   * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
