@@ -6,7 +6,6 @@
   * [Detran Simulador](https://detran-simulador.web.app)
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
   * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
-  * [Um projeto de poesias musical com Angular utilizando Youtube API](https://rimandoaspoesias.web.app)
   * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
 - 📘 Clone da Interface do Facebook com Angular
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
