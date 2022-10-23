@@ -35,8 +35,8 @@
 <a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
   <img alt="Lucas Ferreira de Lima LinkdeIn" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/linkedin-logo.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCxvF9bQs3PAasQJoNfeX-og" target="_blank">
-  <img alt="2L Rimando As Poesias Youtube" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
+<a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
+  <img alt="Lucas Ferreira de Lima - Front end" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
 </a>
 <a href="https://codepen.io/lucaslimax" target="_blank">
   <img alt="lucaslimax Codepen" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/codepen-logo.svg" />
