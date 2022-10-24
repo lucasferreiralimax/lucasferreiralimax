@@ -21,3 +21,24 @@
 <a href="https://www.freecodecamp.org/lucasferreiralimax" target="_blank">
   <img alt="Lucas Ferreira de Lima FreeCodeCamp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/freecodecamp-logo.png" />
 </a>
+
+### 🌿 Projetos
+  * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
+  * [Projeto Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
+  * [Detran Simulador](https://detran-simulador.web.app)
+  * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
+  * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
+  * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
+- 📘 Clone da Interface do Facebook com Angular
+  * [Interface Facebook with Angular](https://angular-facebook.web.app)
+  * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
+- 📚 Clone da Interface do Google com teclado virtual e reconhecimento de voz com diversos frameworks
+  * [Interface Google com React.js](https://g00gle-reactjs.web.app)
+  * [Interface Google com Angular](https://g00gle-angular.web.app)
+  * [Interface Google com Vue.js](https://g00gle-vue.web.app)
+  * [Interface Google com Svelte](https://g00gle-svelte.web.app)
+- ↔️ Slide de conteúdo simples escrito em diversos Frameworks
+  * [SlideContent com React.js](https://slidecontent-reactjs.web.app)
+  * [SlideContent com Vue.js](https://slidecontent-vuejs.web.app)
+  * [SlideContent com Angular](https://angular-slidecontent.web.app)
+  * [SlideContent com Ember.js](https://slidecontent-ember.web.app)
