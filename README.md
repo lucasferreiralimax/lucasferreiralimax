@@ -26,6 +26,7 @@
   * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
   * [Projeto Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
   * [Detran Simulador](https://detran-simulador.web.app)
+  * [Wallet Digitalz]([https://detran-simulador.web.app](https://walletdigitalz.web.app))
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
   * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
   * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
