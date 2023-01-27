@@ -24,7 +24,7 @@
 
 ### 🌿 Projetos
   * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
-  * [Projeto Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
+  * [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
   * [Detran Simulador](https://detran-simulador.web.app)
   * [Wallet Digitalz](https://walletdigitalz.web.app)
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
