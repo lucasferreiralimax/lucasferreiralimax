@@ -23,11 +23,12 @@
 </a>
 
 ### 🌿 Projetos
-  * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
+  * [Criar.Art](https://criar.art)
   * [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
   * [Detran Simulador](https://detran-simulador.web.app)
   * [Wallet Digitalz](https://walletdigitalz.web.app)
   * [Contact Vue Book](https://contact-vue-book.web.app)
+  * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
   * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
   * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
