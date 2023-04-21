@@ -23,15 +23,25 @@
 </a>
 
 ### 🌿 Trabalhos
+- Desenvolvimento de produtos e empresas
   * [Criar.Art](https://criar.art)
+- Carteira Digital para ajudar na gestão de valores
   * [Wallet Digitalz](https://walletdigitalz.web.app)
-  * [Contact Vue Book](https://contact-vue-book.web.app)
+- Aplicativo para estudo de leis de condução no trânsito
   * [Detran Simulador](https://detran-simulador.web.app)
+- Aplicativo para gerar um documento de currículo
   * [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
-  * [Lista Mundial de Contatos Prevenção a Vida](https://lucasferreiralimax.github.io/save-our-soul)
+- Exemplo de aplicativo para gestão de contatos
+  * [Contact Vue Book](https://contact-vue-book.web.app)
+- Lista Mundial de Contatos Prevenção a Vida feito em JavaScript
+  * [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
+- Aplicativo para o registro de notas escritas
   * [Web Aplicativo de Notas escrito com Svelte.js](https://keep-cybernetically.web.app)
-  * [Criei a Documentação Oficial em Português do vue-i18n](https://kazupon.github.io/vue-i18n/pt)
-  * Boilerplate utlizando Stylus e Pug.js com [webpack](https://github.com/lucasferreiralimax/webpack_work), [gulp](https://github.com/lucasferreiralimax/gulp_work), [grunt](https://github.com/lucasferreiralimax/grunt_work) and [parcel](https://github.com/lucasferreiralimax/parcel_work)
+- Boilerplate utlizando Stylus e Pug.js
+  * [webpack](https://github.com/lucasferreiralimax/webpack_work)
+  * [gulp](https://github.com/lucasferreiralimax/gulp_work)
+  * [grunt](https://github.com/lucasferreiralimax/grunt_work)
+  * [parcel](https://github.com/lucasferreiralimax/parcel_work)
 - 📘 Clone da Interface do Facebook com Angular
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
   * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
