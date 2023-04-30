@@ -30,7 +30,7 @@
 - Exemplo de aplicativo para gestão de contatos [Contact Vue Book](https://contact-vue-book.web.app)
 - Lista Mundial de Contatos Prevenção a Vida feito em JavaScript [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
 - Aplicativo para o registro de notas escritas [Keep Cybernetically](https://keep-cybernetically.web.app)
-- Componenentes
+- Componentes
   * [vue-techs-logos](https://vue-techs-logos.web.app)
   * [react-techs-logos](https://react-techs-logos.web.app)
   * [darkmode-vue](https://darkmode-vue.web.app)
