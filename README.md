@@ -27,12 +27,13 @@
 - Carteira Digital para ajudar na gestão de valores [Wallet Digitalz](https://walletdigitalz.web.app)
 - Aplicativo para estudo de leis de condução no trânsito [Detran Simulador](https://detran-simulador.web.app)
 - Aplicativo para gerar um documento de currículo [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
-- Componente de listagem de logos [vue-techs-logos](https://vue-techs-logos.web.app)
-- Componente de listagem de logos [react-techs-logos](https://react-techs-logos.web.app)
-- Componente para ativar tema [darkmode-vue](https://darkmode-vue.web.app)
 - Exemplo de aplicativo para gestão de contatos [Contact Vue Book](https://contact-vue-book.web.app)
 - Lista Mundial de Contatos Prevenção a Vida feito em JavaScript [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
 - Aplicativo para o registro de notas escritas [Keep Cybernetically](https://keep-cybernetically.web.app)
+- Componenentes
+  * [vue-techs-logos](https://vue-techs-logos.web.app)
+  * [react-techs-logos](https://react-techs-logos.web.app)
+  * [darkmode-vue](https://darkmode-vue.web.app)
 - Boilerplate utlizando Stylus e Pug.js
   * [webpack](https://github.com/lucasferreiralimax/webpack_work)
   * [gulp](https://github.com/lucasferreiralimax/gulp_work)
