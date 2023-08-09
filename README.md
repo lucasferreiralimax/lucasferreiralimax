@@ -25,7 +25,6 @@
 ### 🌿 Trabalhos
 - Desenvolvimento de produtos e empresas [Criar.Art](https://criar.art)
 - Carteira Digital para ajudar na gestão de valores [Wallet Digitalz](https://walletdigitalz.web.app)
-- Aplicativo para estudo de leis de condução no trânsito [Detran Simulador](https://detran-simulador.web.app)
 - Aplicativo para gerar um documento de currículo [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
 - Exemplo de aplicativo para gestão de contatos [Contact Vue Book](https://contact-vue-book.web.app)
 - Lista Mundial de Contatos Prevenção a Vida feito em JavaScript [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
