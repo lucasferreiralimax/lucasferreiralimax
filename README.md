@@ -1,4 +1,4 @@
-### 🇧🇷 Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
+### Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
 
 <a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
   <img alt="Lucas Ferreira de Lima - Front end" width="60px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
@@ -22,32 +22,32 @@
   <img alt="Lucas Ferreira de Lima FreeCodeCamp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/freecodecamp-logo.png" />
 </a>
 
-### 🌿 Trabalhos
-- Desenvolvimento de produtos e empresas [Criar.Art](https://criar.art)
-- Carteira Digital para ajudar na gestão de valores [Wallet Digitalz](https://walletdigitalz.web.app)
-- Aplicativo para gerar um documento de currículo [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
-- Exemplo de aplicativo para gestão de contatos [Contact Vue Book](https://contact-vue-book.web.app)
-- Lista Mundial de Contatos Prevenção a Vida feito em JavaScript [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
-- Aplicativo para o registro de notas escritas [Keep Cybernetically](https://keep-cybernetically.web.app)
-- Componentes
+### 🌿 Work's
+- Business development [Criar.Art](https://criar.art)
+- Digital Wallet to help manage money [Wallet Digitalz](https://walletdigitalz.web.app)
+- Application to generate a resume document [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
+- Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
+- Worldwide Life Prevention Contact List [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
+- Application for written notes [Keep Cybernetically](https://keep-cybernetically.web.app)
+- Component's
   * [vue-techs-logos](https://vue-techs-logos.web.app)
   * [react-techs-logos](https://react-techs-logos.web.app)
   * [darkmode-vue](https://darkmode-vue.web.app)
-- Boilerplate utlizando Stylus e Pug.js
+- Boilerplate usage Stylus e Pug.js
   * [webpack](https://github.com/lucasferreiralimax/webpack_work)
   * [gulp](https://github.com/lucasferreiralimax/gulp_work)
   * [grunt](https://github.com/lucasferreiralimax/grunt_work)
   * [parcel](https://github.com/lucasferreiralimax/parcel_work)
-- 📘 Clone da Interface do Facebook com Angular
+- 📘 Facebook Interface with Angular
   * [Interface Facebook with Angular](https://angular-facebook.web.app)
   * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
-- 📚 Clone da Interface do Google com teclado virtual e reconhecimento de voz com diversos frameworks
-  * [Interface Google com React.js](https://g00gle-reactjs.web.app)
-  * [Interface Google com Angular](https://g00gle-angular.web.app)
-  * [Interface Google com Vue.js](https://g00gle-vue.web.app)
-  * [Interface Google com Svelte](https://g00gle-svelte.web.app)
-- ↔️ Slide de conteúdo simples escrito em diversos Frameworks
-  * [SlideContent com React.js](https://slidecontent-reactjs.web.app)
-  * [SlideContent com Vue.js](https://slidecontent-vuejs.web.app)
-  * [SlideContent com Angular](https://angular-slidecontent.web.app)
-  * [SlideContent com Ember.js](https://slidecontent-ember.web.app)
+- 📚 Google interface with virtual keyboard and voice recognition with different frameworks
+  * [Interface Google with React.js](https://g00gle-reactjs.web.app)
+  * [Interface Google with Angular](https://g00gle-angular.web.app)
+  * [Interface Google with Vue.js](https://g00gle-vue.web.app)
+  * [Interface Google with Svelte](https://g00gle-svelte.web.app)
+- ↔️ Simple content slide written with different frameworks
+  * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
+  * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
+  * [SlideContent with Angular](https://angular-slidecontent.web.app)
+  * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
