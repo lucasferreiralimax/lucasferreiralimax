@@ -25,7 +25,7 @@
 ### 🌿 Work's
 - Business development [Criar.Art](https://criar.art)
 - Digital Wallet to help manage money [Wallet Digitalz](https://walletdigitalz.web.app)
-- Application to generate a resume document [Criar Currículo](https://criar-curriculo.web.app?lang=pt-BR)
+- Application to generate a resume document [Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
 - Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
 - Worldwide Life Prevention Contact List [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
 - Application for written notes [Keep Cybernetically](https://keep-cybernetically.web.app)
