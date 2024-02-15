@@ -9,7 +9,10 @@
 - Component's
   * [vue-techs-logos](https://vue-techs-logos.web.app)
   * [react-techs-logos](https://react-techs-logos.web.app)
+  * [react-native-techs-logos](https://www.npmjs.com/package/react-native-techs-logos)
   * [darkmode-vue](https://darkmode-vue.web.app)
+  * [darkmode-angular](https://darkmode-angular.web.app)
+  * [darkmode-react](https://darkmode-react.web.app)
 - Boilerplate usage Stylus e Pug.js
   * [webpack](https://github.com/lucasferreiralimax/webpack_work)
   * [gulp](https://github.com/lucasferreiralimax/gulp_work)
