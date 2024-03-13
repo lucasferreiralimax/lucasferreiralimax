@@ -1,4 +1,14 @@
-### Front-end, React.js, Angular, Vue.js, Svelte.js, JavaScript, HTML, CSS
+### Front-end
+### Techs and skills
+- Node.js
+- Vue.js
+- React Native, React.js
+- Angular, Angular Material
+- Javascript, Typescript
+- CSS, Stylus, Sass, Less, Tailwind
+- HTML, Pug.js
+- UX design, UI design, Mobile First, Responsive
+- i18n, a11y
 ### Work
 - Business development [Criar.Art](https://criar.art)
 - Digital Wallet to help manage money [Wallet Digitalz](https://walletdigitalz.web.app)
