@@ -1,7 +1,7 @@
 ### Front-end
 ### Techs and skills
 - Node.js
-- Vue.js
+- Vue.js, Vuetify, Quasar
 - React Native, React.js
 - Angular, Angular Material
 - Javascript, Typescript
