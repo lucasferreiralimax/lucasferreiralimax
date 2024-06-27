@@ -1,13 +1,13 @@
 ### Front-end
 ### Techs and skills
-- Node.js
-- Vue.js, Vuetify, Quasar
+- Node.js, Python
+- JavaScript, Typescript
 - React Native, React.js
 - Angular, Angular Material
-- Javascript, Typescript
+- Vue.js, Vuetify, Quasar
 - CSS, Stylus, Sass, Less, Tailwind
-- HTML, Pug.js
-- UX design, UI design, Mobile First, Responsive
+- HTML, Pug.js, Semantic, Accessibility
+- UX Design, UI Design, Mobile First, Responsive
 - i18n, a11y
 ### Work
 - Business development [Criar.Art](https://criar.art)
@@ -23,24 +23,19 @@
   * [darkmode-vue](https://darkmode-vue.web.app)
   * [darkmode-angular](https://darkmode-angular.web.app)
   * [darkmode-react](https://darkmode-react.web.app)
-- Boilerplate usage Stylus e Pug.js
-  * [webpack](https://github.com/lucasferreiralimax/webpack_work)
-  * [gulp](https://github.com/lucasferreiralimax/gulp_work)
-  * [grunt](https://github.com/lucasferreiralimax/grunt_work)
-  * [parcel](https://github.com/lucasferreiralimax/parcel_work)
-- 📘 Facebook Interface with Angular
-  * [Interface Facebook with Angular](https://angular-facebook.web.app)
-  * [Interface New Facebook with Angular (Development beta)](https://angular-facebook-new.web.app)
-- 📚 Google interface with virtual keyboard and voice recognition with different frameworks
+  - ↔️ SlideContent
+    * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
+    * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
+    * [SlideContent with Angular](https://slidecontent-angularjs.web.app)
+    * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
+- 📚 Google interface with virtual keyboard and voice recognition
   * [Interface Google with React.js](https://g00gle-reactjs.web.app)
   * [Interface Google with Angular](https://g00gle-angular.web.app)
   * [Interface Google with Vue.js](https://g00gle-vue.web.app)
   * [Interface Google with Svelte](https://g00gle-svelte.web.app)
-- ↔️ Simple content slide written with different frameworks
-  * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
-  * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
-  * [SlideContent with Angular](https://slidecontent-angularjs.web.app)
-  * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
+- 📘 Facebook Interface with Angular
+  * [Interface Facebook with Angular (Archived)](https://angular-facebook.web.app)
+  * [Interface New Facebook with Angular (Archived)](https://angular-facebook-new.web.app)
 
 <a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
   <img alt="Lucas Ferreira de Lima - Front end" width="60px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
