@@ -26,6 +26,7 @@
   * [Interface Facebook with Angular (Archived)](https://angular-facebook.web.app)
   * [Interface New Facebook with Angular (Archived)](https://angular-facebook-new.web.app)
 - ✨ Techs logos
+  * [angular-techs-logos](https://angular-techs-logos.web.app)
   * [vue-techs-logos](https://vue-techs-logos.web.app)
   * [react-techs-logos](https://react-techs-logos.web.app)
   * [react-native-techs-logos](https://www.npmjs.com/package/react-native-techs-logos)
@@ -34,10 +35,10 @@
   * [darkmode-angular](https://darkmode-angular.web.app)
   * [darkmode-react](https://darkmode-react.web.app)
 - ↔️ SlideContent
-  * [SlideContent with React.js](https://slidecontent-reactjs.web.app)
-  * [SlideContent with Vue.js](https://slidecontent-vuejs.web.app)
-  * [SlideContent with Angular](https://slidecontent-angularjs.web.app)
-  * [SlideContent with Ember.js](https://slidecontent-ember.web.app)
+  * [SlideContentReact](https://slidecontent-reactjs.web.app)
+  * [SlideContentVue](https://slidecontent-vuejs.web.app)
+  * [SlideContentAngular](https://slidecontent-angularjs.web.app)
+  * [SlideContentEmber](https://slidecontent-ember.web.app)
 
 <a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
   <img alt="Lucas Ferreira de Lima - Front end" width="60px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
