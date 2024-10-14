@@ -12,6 +12,7 @@
 ### Work
 - 💻 Business development [Criar.Art](https://criar.art)
 - 💰 **Wallet Digital** to help manage finance for [Web](https://walletdigitalz.web.app) and [Android](https://play.google.com/store/apps/details?id=com.criar.art.walletdigitalzapp)
+- 🛠️ Command-line tool for managing [Gitmen on PyPI](https://pypi.org/project/gitmen)
 - **App React Native** with i18n [app-internationalization](https://github.com/livresaber/app-internationalization)
 - Application to generate a resume document [Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
 - Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
