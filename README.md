@@ -18,6 +18,7 @@
 - Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
 - Worldwide Life Prevention Contact List [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
 - Application for written notes [Keep Cybernetically](https://keep-cybernetically.web.app)
+- 🖼️ A modern component to create [Up Windows Angular](https://up-window-angular.web.app)
 - ♿ Vlibras
   * [Angular VLibras](https://angular-vlibras.web.app)
   * [React VLibras](https://react-vlibras.web.app)
