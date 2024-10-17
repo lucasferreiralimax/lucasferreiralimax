@@ -11,13 +11,13 @@
 - i18n internationalization, a11y accessibility
 ### Work
 - 💻 Business development [Criar.Art](https://criar.art)
-- 💰 **Wallet Digital** to help manage finance for [Web](https://walletdigitalz.web.app) and [Android](https://play.google.com/store/apps/details?id=com.criar.art.walletdigitalzapp)
+- 💰 Wallet Digital to help manage finance for [Web](https://walletdigitalz.web.app) and [Android](https://play.google.com/store/apps/details?id=com.criar.art.walletdigitalzapp)
 - 🛠️ Command-line tool for managing [Gitmen on PyPI](https://pypi.org/project/gitmen)
-- **App React Native** with i18n [app-internationalization](https://github.com/livresaber/app-internationalization)
-- Application to generate a resume document [Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
-- Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
-- Worldwide Life Prevention Contact List [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
-- Application for written notes [Keep Cybernetically](https://keep-cybernetically.web.app)
+- 📱 App React Native with i18n [app-internationalization](https://github.com/livresaber/app-internationalization)
+- 📄 Application to generate a resume document [Create Curriculum](https://criar-curriculo.web.app?lang=en-US)
+- 📖 Application for contact management [Contact Vue Book](https://contact-vue-book.web.app)
+- 🌍 Worldwide Life Prevention Contact List [Save-Our-Soul](https://lucasferreiralimax.github.io/save-our-soul)
+- 📝 Application for written notes [Keep Cybernetically](https://keep-cybernetically.web.app)
 - 🖼️ A modern component to create [Up Windows Angular](https://up-window-angular.web.app)
 - ♿ Vlibras
   * [Angular VLibras](https://angular-vlibras.web.app)
