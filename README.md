@@ -36,44 +36,33 @@
     - [New Facebook Interface with Angular (Archived)](https://angular-facebook-new.web.app)
 </details>
 
-<details>
-  <summary><strong>Connect with Me</strong></summary>
-
-  - **LinkedIn**:  
-    <a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
-      <img alt="Lucas Ferreira LinkedIn" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/linkedin-logo.svg" />
-    </a>
-
-  - **Duolingo**:  
-    <a href="https://www.duolingo.com/profile/ferreiralimax" target="_blank">
-      <img alt="Lucas Ferreira Duolingo" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/duolingo-logo.svg" />
-    </a>
-
-  - **YouTube**:  
-    <a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
-      <img alt="Lucas Ferreira YouTube" width="60px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
-    </a>
-  
-  - **Microsoft Profile**:  
-    <a href="https://docs.microsoft.com/pt-br/users/lucasferreiralimax" target="_blank">
-      <img alt="Lucas Ferreira Microsoft Docs" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/microsoft-logo.svg" />
-    </a>
-  
-  - **PluralSight**:  
-    <a href="https://app.pluralsight.com/profile/lucasferreiralimax" target="_blank">
-      <img alt="Lucas Ferreira Pluralsight" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/pluralsight-logo.png" />
-    </a>
-  
-  - **CodePen**:  
-    <a href="https://codepen.io/lucaslimax" target="_blank">
-      <img alt="Lucas Ferreira Codepen" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/codepen-logo.svg" />
-    </a>
-  
-  - **FreeCodeCamp**:  
-    <a href="https://www.freecodecamp.org/lucasferreiralimax" target="_blank">
-      <img alt="Lucas Ferreira FreeCodeCamp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/freecodecamp-logo.png" />
-    </a>
-
-</details>
-
 [![Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiralimax&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://www.linkedin.com/in/lucasferreiralimax)
+
+### Connect with Me
+<a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
+  <img alt="Lucas Ferreira LinkedIn" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/linkedin-logo.svg" />
+</a>
+
+<a href="https://www.duolingo.com/profile/ferreiralimax" target="_blank">
+  <img alt="Lucas Ferreira Duolingo" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/duolingo-logo.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCZBURloZW7kmNqzgPS9OHrA" target="_blank">
+  <img alt="Lucas Ferreira YouTube" width="60px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/youtube-logo.svg" />
+</a>
+
+<a href="https://docs.microsoft.com/pt-br/users/lucasferreiralimax" target="_blank">
+  <img alt="Lucas Ferreira Microsoft Docs" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/microsoft-logo.svg" />
+</a>
+
+<a href="https://app.pluralsight.com/profile/lucasferreiralimax" target="_blank">
+  <img alt="Lucas Ferreira Pluralsight" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/pluralsight-logo.png" />
+</a>
+
+<a href="https://codepen.io/lucaslimax" target="_blank">
+  <img alt="Lucas Ferreira Codepen" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/codepen-logo.svg" />
+</a>
+
+<a href="https://www.freecodecamp.org/lucasferreiralimax" target="_blank">
+  <img alt="Lucas Ferreira FreeCodeCamp" width="50px" src="https://raw.githubusercontent.com/lucasferreiralimax/lucasferreiralimax/master/assets/freecodecamp-logo.png" />
+</a>
