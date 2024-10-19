@@ -75,3 +75,5 @@
     </a>
 
 </details>
+
+[![Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiralimax&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://www.linkedin.com/in/lucasferreiralimax)
