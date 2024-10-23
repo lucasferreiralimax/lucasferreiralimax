@@ -28,12 +28,11 @@
   - **💡 Dark Mode Libraries**: [Vue](https://darkmode-vue.web.app), [Angular](https://darkmode-angular.web.app), [React](https://darkmode-react.web.app)
   - **↔️ SlideContent Component**: [React](https://slidecontent-reactjs.web.app), [Vue](https://slidecontent-vuejs.web.app), [Angular](https://slidecontent-angularjs.web.app), [Ember](https://slidecontent-ember.web.app)
   - **📚 Google Interface Clones**: [React.js](https://github.com/lucasferreiralimax/google-react), [Angular](https://github.com/lucasferreiralimax/google-angular), [Vue.js](https://github.com/lucasferreiralimax/google-vue), [Svelte](https://github.com/lucasferreiralimax/google-svelte)
-  - **♿ Accessibility Projects (VLibras)**:
-    - [Angular VLibras](https://angular-vlibras.web.app)
-    - [React VLibras](https://react-vlibras.web.app)
-  - **📘 Facebook Interface Clones**:
-    - [Facebook Interface with Angular (Archived)](https://angular-facebook.web.app)
-    - [New Facebook Interface with Angular (Archived)](https://angular-facebook-new.web.app)
+  - **📘 Facebook Interface Clones**: [Old (Archived)](https://angular-facebook.web.app), [New (Archived)](https://angular-facebook-new.web.app)
+  - **♿ Accessibility Projects**:
+    - 🌐 [Angular VLibras](https://angular-vlibras.web.app)
+    - ⚛️ [React VLibras](https://react-vlibras.web.app)
+    - 🎤 [Voice Capture Angular](https://voicecapture-angular.web.app)
 </details>
 
 [![Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiralimax&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://www.linkedin.com/in/lucasferreiralimax)
