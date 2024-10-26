@@ -30,9 +30,8 @@
   - **📚 Google Interface Clones**: [React.js](https://github.com/lucasferreiralimax/google-react), [Angular](https://github.com/lucasferreiralimax/google-angular), [Vue.js](https://github.com/lucasferreiralimax/google-vue), [Svelte](https://github.com/lucasferreiralimax/google-svelte)
   - **📘 Facebook Interface Clones**: [Old (Archived)](https://angular-facebook.web.app), [New (Archived)](https://angular-facebook-new.web.app)
   - **♿ Accessibility Projects**:
-    - 🌐 [Angular VLibras](https://angular-vlibras.web.app)
-    - ⚛️ [React VLibras](https://react-vlibras.web.app)
-    - 🎤 [Voice Capture Angular](https://voicecapture-angular.web.app)
+    - ✌️ VLibras [Angular ](https://angular-vlibras.web.app), [React](https://react-vlibras.web.app), [Vue](https://vue-vlibras.web.app)
+    - 🎤 Voice Capture: [Angular](https://voicecapture-angular.web.app), [React](https://voicecapture-react.web.app), [Vue](https://voicecapture-vue.web.app)
 </details>
 
 [![Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiralimax&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://www.linkedin.com/in/lucasferreiralimax)
