@@ -1,6 +1,6 @@
 # Front-end Developer
 ## About
-I’m a front-end developer with experience at Innvo Labs, Claro Brazil, Interfood Importation, Matera, Resource IT Solutions, Fidelity Investments, Votorantim Bank, and IBM.
+I’m a front-end developer with experience at Innvo Labs, Claro Brazil, Interfood Importation, Matera, Resource IT Solutions, Fidelity, Votorantim Bank, and IBM.
 
 Currently, I’m studying Systems Analysis and Development at PUC Minas and have completed additional training in front-end development through Alura and Origamid.
 
