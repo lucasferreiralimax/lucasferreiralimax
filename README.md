@@ -2,7 +2,9 @@
 ## About
 I’m a front-end developer with experience at Innvo Labs, Santander Bank, Claro Brazil, Interfood Importation, Matera, Resource IT Solutions, Fidelity Investments, Votorantim Bank, and IBM.
 
-Currently, I’m studying Systems Analysis and Development at PUC Minas and have completed additional training in front-end development through Alura and Origamid.
+Currently, I’m studying Systems Analysis and Development at PUC Minas, where I’m developing the project [Save Money](https://savemoney.app.br) — a financial management system that helps control for promoting financial health and resource optimization.
+
+I have also completed additional studying in front-end development through Alura and Origamid.
 
 ## Tech Stack & Skills
 
