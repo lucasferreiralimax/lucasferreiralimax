@@ -29,7 +29,7 @@ I have also completed additional studying in front-end development through Alura
 - **💡 Dark Mode Libraries**: [Vue](https://darkmode-vue.web.app), [Angular](https://darkmode-angular.web.app), [React](https://darkmode-react.web.app)
 - **↔️ SlideContent Component**: [React](https://slidecontent-reactjs.web.app), [Vue](https://slidecontent-vuejs.web.app), [Angular](https://slidecontent-angularjs.web.app), [Ember](https://slidecontent-ember.web.app)
 - **📚 Google Interface Clones**: [React.js](https://github.com/lucasferreiralimax/google-react), [Angular](https://github.com/lucasferreiralimax/google-angular), [Vue.js](https://github.com/lucasferreiralimax/google-vue), [Svelte](https://github.com/lucasferreiralimax/google-svelte)
-- **📘 Facebook Interface Clones**: [Old (Archived)](https://angular-facebook.web.app), [New (Archived)](https://angular-facebook-new.web.app)
+- **📘 Facebook Interface Clones**: [Old (Archived)](https://angular-facebook.web.app), [New (Archived)](https://github.com/lucasferreiralimax/angularbook-new)
 - **♿ Accessibility Projects**:
   - ✌️ VLibras [Angular ](https://angular-vlibras.web.app), [React](https://react-vlibras.web.app), [Vue](https://vue-vlibras.web.app)
   - 🎤 Voice Capture: [Angular](https://voicecapture-angular.web.app), [React](https://voicecapture-react.web.app), [Vue](https://voicecapture-vue.web.app)
