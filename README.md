@@ -17,7 +17,7 @@ I have also completed additional studying in front-end development through Alura
 
 ## Projects
 - **💻 Business Development**: [Criar.Art](https://criar.art)
-- **💰 Wallet Digital**: A financial management app for [Web](https://walletdigitalz.web.app) and [Android](https://play.google.com/store/apps/details?id=com.criar.art.walletdigitalzapp)
+- **💰 Wallet Digital**: A financial management app for [Web](https://walletdigitalz.web.app) and [Android](https://github.com/criar-art/wallet.digitalz.app)
 - **🛠️ Command-line Tool**: [Gitmen on PyPI](https://pypi.org/project/gitmen) - A tool to streamline Git operations
 - **📱 i18n React Native App**: [App Internationalization](https://github.com/livresaber/app-internationalization)
 - **📄 Resume Generator**: [Create Curriculum](https://criar-curriculo.web.app?lang=en-US) - Build resumes directly from the browser
@@ -33,8 +33,6 @@ I have also completed additional studying in front-end development through Alura
 - **♿ Accessibility Projects**:
   - ✌️ VLibras [Angular ](https://angular-vlibras.web.app), [React](https://react-vlibras.web.app), [Vue](https://vue-vlibras.web.app)
   - 🎤 Voice Capture: [Angular](https://voicecapture-angular.web.app), [React](https://voicecapture-react.web.app), [Vue](https://voicecapture-vue.web.app)
-
-[![Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiralimax&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://www.linkedin.com/in/lucasferreiralimax)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/lucasferreiralimax" target="_blank">
